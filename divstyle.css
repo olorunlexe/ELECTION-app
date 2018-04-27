@@ -1,0 +1,43 @@
+
+
+body{
+    background-color: aquamarine;
+    background-image: url(bg.PNG);
+    padding-top: 40px;
+}
+
+#submit{
+    font-size: 30px;font-family: sans-serif;background-color:cadetblue ;color: floralwhite;font-size: 50px;
+    min-width: 120px;min-height:60px;
+    
+}
+#sub{
+position:absolute;margin-top:215px;margin-left:700px;
+}
+
+#banner{
+background-color: 0066CC;max-height: 200px;min-width: 100%;
+        
+}
+#maindiv{background-color:azure;padding-top: 10px;border: 2px solid floralwhite;padding-bottom: 4px;padding:4pxpx;
+text-align: center;max-height: 200px;max-width: 600px;
+}
+
+#title{
+    background-color:deepskyblue;color: floralwhite;font-size: 30px;
+    padding-bottom: 4px;padding-top: 10px;font-family: sans-serif;
+}
+
+#namespace{
+    max-height: 30px;
+    background-color:darkslategray;color: floralwhite;font-size: 20px;font-family: sans-serif;
+    
+}
+#opt1{max-height: 50px;
+    background-color:steelblue;color: floralwhite;font-size: 20px;
+    padding-bottom: 4px;padding-top: 10px; font-family: sans-serif;
+}
+#opt2{max-height: 50px;
+    background-color: steelblue;color: floralwhite;font-size: 20px;
+    padding-bottom: 4px;padding-top: 10px; font-family: sans-serif;
+}
